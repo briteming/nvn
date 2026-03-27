@@ -13,8 +13,7 @@ tags:
   - Norway
 fediverse: 114631214554781234
 toc: false
-lightgallery: true
-draft: true
+lightgallery: false
 description: Once again for 1 week in June I will be joining 149 other Ténéré riders to take part in the Ténéré Travel Trophy. This time we will be heading north, starting in Denmark and crossing to Sweden before finishing in Norway. If the previous 2 editions are anything to go by, then this is going to be another amazing trip, and this is Scandinavia, the scenery is going to be stunning.
 ---
 
