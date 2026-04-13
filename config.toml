@@ -1,4 +1,4 @@
-baseURL = "https://www.adventuremiles.net/"
+baseURL = "/"
 
 # theme
 theme = "LoveIt"
@@ -31,7 +31,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 [author]
   name = "Patrick Neave"
-  email = "pneave@neavey.net"
+  email = "pneave@neavey.net"fff
   link = ""
 
 # Menu config
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Mapbox GL JS config (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
     [params.page.mapbox]
       # access token of Mapbox GL JS
-      accessToken = "pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"
+      accessToken = ""
       # style for the light theme
       lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
       # style for the dark theme
